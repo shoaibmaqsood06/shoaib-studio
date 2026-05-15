@@ -1,0 +1,53 @@
+{
+  "eyebrow": "Skills & Expertise",
+  "headline": "Technical Arsenal",
+  "categories": [
+    {
+      "id": "erp",
+      "label": "ERP Platforms",
+      "skills": [
+        { "name": "Dolibarr ERP", "level": 95 },
+        { "name": "Odoo", "level": 92 },
+        { "name": "SAP", "level": 78 },
+        { "name": "ERPNext", "level": 88 }
+      ]
+    },
+    {
+      "id": "systems",
+      "label": "Systems",
+      "skills": [
+        { "name": "HRM Systems", "level": 95 },
+        { "name": "Inventory Management", "level": 92 },
+        { "name": "Attendance & Biometric", "level": 90 }
+      ]
+    },
+    {
+      "id": "data",
+      "label": "Data & Analytics",
+      "skills": [
+        { "name": "Power BI", "level": 90 },
+        { "name": "Python", "level": 85 },
+        { "name": "SQL", "level": 88 }
+      ]
+    },
+    {
+      "id": "design",
+      "label": "Design & Engineering",
+      "skills": [
+        { "name": "AutoCAD", "level": 82 },
+        { "name": "SolidWorks", "level": 75 },
+        { "name": "Dashboard Design", "level": 93 },
+        { "name": "UI/UX", "level": 85 },
+        { "name": "Automation Systems", "level": 90 }
+      ]
+    }
+  ],
+  "allSkills": [
+    "Dolibarr ERP", "Odoo", "SAP", "ERPNext",
+    "HRM Systems", "Inventory Management", "Power BI",
+    "Python", "SQL", "AutoCAD", "SolidWorks",
+    "Dashboard Design", "UI/UX", "Automation Systems",
+    "Biometric Integration", "Business Process Optimization",
+    "Financial Reporting", "Payroll Automation"
+  ]
+}

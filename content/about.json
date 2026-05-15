@@ -1,0 +1,23 @@
+{
+  "eyebrow": "About Me",
+  "headline": "Where Technology Meets Precision",
+  "bio": [
+    "I'm Shoaib Maqsood — an ERP & HRM implementation specialist with a passion for transforming complex business processes into seamless digital workflows. With over 8 years of hands-on experience across enterprise platforms including Dolibarr, Odoo, SAP, and ERPNext, I architect systems that don't just work — they elevate entire organizations.",
+    "My expertise spans the full spectrum of business automation: from deploying large-scale HR management systems that handle thousands of employees, to designing real-time inventory dashboards that give decision-makers instant clarity. I blend technical depth with a designer's eye — every system I build is both powerful and intuitive.",
+    "Whether it's integrating biometric attendance solutions, building custom Power BI reporting suites, or optimizing financial workflows, my approach is always the same: understand the human behind the process, then engineer something extraordinary."
+  ],
+  "stats": [
+    { "value": "8+", "label": "Years of Expertise" },
+    { "value": "50+", "label": "Systems Deployed" },
+    { "value": "15+", "label": "Enterprise Clients" },
+    { "value": "5", "label": "ERP Platforms" }
+  ],
+  "highlights": [
+    "ERP Architecture & Implementation",
+    "HRM System Design",
+    "Real-time Dashboard Engineering",
+    "Business Process Automation",
+    "Finance & Inventory Systems",
+    "UI/UX for Enterprise Tools"
+  ]
+}

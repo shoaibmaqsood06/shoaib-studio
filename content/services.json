@@ -1,0 +1,90 @@
+{
+  "eyebrow": "What I Do",
+  "headline": "Services",
+  "items": [
+    {
+      "id": "erp-implementation",
+      "index": "01",
+      "title": "ERP Implementation",
+      "description": "End-to-end deployment of enterprise resource planning systems tailored to your business processes. From needs analysis to go-live, I ensure a seamless transition that maximizes your team's productivity from day one.",
+      "features": [
+        "Platform selection & architecture",
+        "Custom module development",
+        "Data migration & validation",
+        "Staff training & onboarding",
+        "Post-deployment support"
+      ],
+      "icon": "layers"
+    },
+    {
+      "id": "hrm-automation",
+      "index": "02",
+      "title": "HRM Automation",
+      "description": "Transform manual HR operations into intelligent automated workflows. From recruitment pipelines to payroll processing, I build systems that handle complexity so your HR team can focus on people, not paperwork.",
+      "features": [
+        "Employee lifecycle management",
+        "Payroll computation engine",
+        "Performance review workflows",
+        "Leave & absence management",
+        "Compliance & audit trails"
+      ],
+      "icon": "users"
+    },
+    {
+      "id": "dashboard-development",
+      "index": "03",
+      "title": "Dashboard Development",
+      "description": "Custom data visualization dashboards that turn raw business data into actionable intelligence. I design executive dashboards, operational monitors, and self-service analytics platforms your team will actually use.",
+      "features": [
+        "Real-time data pipelines",
+        "Power BI / custom UI",
+        "KPI monitoring & alerts",
+        "Multi-source data integration",
+        "Mobile-responsive design"
+      ],
+      "icon": "bar-chart"
+    },
+    {
+      "id": "business-process-optimization",
+      "index": "04",
+      "title": "Process Optimization",
+      "description": "Diagnose bottlenecks, eliminate redundancies, and redesign workflows for maximum efficiency. I map your current processes, identify improvement opportunities, and implement smart automation that compounds over time.",
+      "features": [
+        "Process mapping & analysis",
+        "Bottleneck identification",
+        "Workflow redesign",
+        "Automation scripting",
+        "ROI measurement"
+      ],
+      "icon": "zap"
+    },
+    {
+      "id": "inventory-systems",
+      "index": "05",
+      "title": "Inventory Systems",
+      "description": "Comprehensive inventory management solutions with real-time tracking, automated reordering, and multi-warehouse support. Never face stockouts or overstock situations again with intelligent inventory intelligence.",
+      "features": [
+        "Multi-warehouse tracking",
+        "Automated reorder alerts",
+        "Supplier management",
+        "Barcode/RFID integration",
+        "Financial inventory reports"
+      ],
+      "icon": "package"
+    },
+    {
+      "id": "attendance-biometric",
+      "index": "06",
+      "title": "Attendance & Biometric",
+      "description": "Integrated biometric attendance solutions connecting hardware to intelligent management software. Real-time workforce presence monitoring across multiple locations with automated payroll integration.",
+      "features": [
+        "Biometric hardware integration",
+        "Multi-location deployment",
+        "Shift & overtime management",
+        "Payroll synchronization",
+        "Analytics & reporting"
+      ],
+      "icon": "fingerprint"
+    }
+  ]
+}
